@@ -30,7 +30,7 @@ During my internship at Clysys Private Limited, I was immersed in SQL training t
 Feel free to clone this repository and explore the scripts. Each `.sql` file is self-contained and documented with explanations for each query. You can run these scripts on your local database to understand their functionality.
 
 ```
-[git clone https://github.com/yourusername/SQL_Repo.git](https://github.com/regvedpande/SQL_Repo.git)
+git clone https://github.com/regvedpande/SQL_Repo.git
 ```
 
 Ensure you have a SQL-compatible database setup to execute these scripts.
