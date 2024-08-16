@@ -1,7 +1,6 @@
 USE PeopleDB
 
 CALL Show_Table;
-
 ALTER TABLE People
 ADD HourlyPay DECIMAL(10, 2),
 ADD Salary DECIMAL(10, 2) DEFAULT NULL;
